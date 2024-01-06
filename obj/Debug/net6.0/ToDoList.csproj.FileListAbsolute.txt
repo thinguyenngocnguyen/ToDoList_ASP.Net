@@ -1,0 +1,261 @@
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cs
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\appsettings.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\ToDoList.staticwebassets.runtime.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\ToDoList.exe
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\scopedcss\projectbundle\ToDoList.bundle.scp.css
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\ToDoList\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\appsettings.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.staticwebassets.runtime.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.exe
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.pdb
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cs
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\scopedcss\projectbundle\ToDoList.bundle.scp.css
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.pdb
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+C:\Users\Obailey\Documents\Visual Studio 2022\sample_code\9.Week9-SEE_READ_ME_inside\Ch10_ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\appsettings.Development.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\appsettings.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.staticwebassets.runtime.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.exe
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\ToDoList.pdb
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Azure.Core.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Azure.Identity.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Humanizer.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.CodeDom.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Memory.Data.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Text.Json.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cache
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cs
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\scopedcss\projectbundle\ToDoList.bundle.scp.css
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.pdb
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+G:\My Drive\Ngoc Education\Fall2023\PRO2230-Microsoft Web Techn\Lectures\Week9\Ch10_ToDoList (1)\Ch10_ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
